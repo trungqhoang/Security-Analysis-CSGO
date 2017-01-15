@@ -15,4 +15,4 @@ The internal folder contains undetected methods for accessing and modifying game
 Unlike the external method, the internal hacking method is done via a .dll that is injected into the process. Once a part of the process, internal cheats can access and modify game data directly.
 
 
-Both folders contain similar implementations for the most famous types of exploits.
+Both folders contain similar implementations for the most famous types of exploits (mentioned in the external section).
