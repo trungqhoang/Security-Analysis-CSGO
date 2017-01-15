@@ -8,7 +8,7 @@
 
 struct LocalPlayer {
 	DWORD *base;			// Base address in memory of the player
-	int *team;				// The team number the player
+	int *team;			// The team number the player
 	int *crosshair_id;		// The player's current target
 	int *target;			// The player's current target
 	int *shots_fired;		// The number of bullets fired by the player
@@ -17,5 +17,5 @@ struct LocalPlayer {
 	int *in_game;			// Whether or not the player is connected to a server
 
 	int *local_index;		// Index of the player with respect to the entity list
-	float *view_angles[3];	// The current view angles of the player
+	float *view_angles[3];		// The current view angles of the player
 };
