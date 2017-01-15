@@ -1,6 +1,5 @@
 # Security-Analysis-CSGO
 A repository containing methods used to manipulate memory in Counter-Strike: Global Offensive.
-For educational purposes only.
 
 This repository contains the source code for two methods commonly used to exploit Counter-Strike: Global Offensive.
 
@@ -16,3 +15,6 @@ Unlike the external method, the internal hacking method is done via a .dll that 
 
 
 Both folders contain similar implementations for the most famous types of exploits (mentioned in the external section).
+
+
+For educational purposes only.
