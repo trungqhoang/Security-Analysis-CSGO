@@ -1,5 +1,5 @@
 # Security-Analysis-CSGO
-This repository contains source code for two methods commonly used to exploit Counter-Strike: Global Offensive that are currently undetected, and has been sent to Valve for review.
+This repository contains source code for two methods commonly used to exploit Counter-Strike: Global Offensive that are undetected as of 1/14/2017, and has been sent to Valve for review.
 
 Each folder contains different methods for accessing and modifying game data.
 
