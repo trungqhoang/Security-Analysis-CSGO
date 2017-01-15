@@ -1,5 +1,5 @@
 # Security-Analysis-CSGO
-A repository containing standard/common methods used to manipulate memory in Counter-Strike: Global Offensive.
+A repository containing methods used to manipulate memory in Counter-Strike: Global Offensive.
 For educational purposes only.
 
 This repository contains the source code for two methods commonly used to exploit Counter-Strike: Global Offensive.
