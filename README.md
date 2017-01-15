@@ -17,4 +17,4 @@ Unlike the external method, the internal hacking method is done via a .dll that 
 Both folders contain similar implementations for the most famous types of exploits (mentioned in the external section).
 
 
-For educational purposes only.
+#For educational purposes only.
